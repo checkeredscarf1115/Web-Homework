@@ -27,19 +27,8 @@ h2 {
   color: black;
 }
 
-/*подключаем картинку для шапки*/
-/* header {
-  background: url("https://d626yq9e83zk1.cloudfront.net/files/2017/12/26-770x425.jpg")
-    bottom center no-repeat;
-  background-size: 100%;
-  width: 100%;
-  height: 100%;
-  color: white;
-  text-align: center;
-  margin-bottom: 20px;
-} */
 header {
-  background: url("4907157.jpg") bottom center no-repeat;
+  background: url("imgs n vids/4907157.jpg") bottom center no-repeat;
   background-size: 100%;
   width: 100%;
   height: 100%;
